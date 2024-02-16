@@ -4,6 +4,10 @@
 
 This repository contains a collection of personal projects developed using JavaScript.
 
+## Note
+
+The CSS and HTML files included in this repository were provided by Jonas Schmedtmann as part of the Complete JavaScript Course. The JavaScript code implementation is authored by Me
+
 ## Projects
 
 1. **Bank App**: A simple banking application where users can manage their accounts, make deposits, withdrawals, and view transaction history.

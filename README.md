@@ -18,6 +18,8 @@ The CSS and HTML files included in this repository were provided by Jonas Schmed
 
 4. **Modal**: It's a simple Switching technique applied on CSS and HTML
 
+5. **Banking Website**: It's simple banking website with lots of good looking features like sliders etc
+
 ## Getting Started
 
 Clone this repository to your local machine to explore the projects:
